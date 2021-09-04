@@ -5,7 +5,8 @@
   "description": "Frontend of Palm Tree",
   "main": "index.js",
   "scripts": {
-    "build": "parcel build src/views/*.html",
+    "prebuild": "rm -rf .cache dist build",
+    "build": "parcel build src/views/*.html --public-url .",
     "dev": "parcel src/views/*.html",
     "prepublish": "npm run build",
     "publish": "gh-pages -d dist"
