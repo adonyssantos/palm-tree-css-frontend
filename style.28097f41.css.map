@@ -1,0 +1,1 @@
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AACQ;AACA","file":"style.28097f41.css","sourceRoot":"../src/views","sourcesContent":["// Imports from Palm Tree CSS Library\n@import url('https://palm-tree-css-library.github.io/styles.css');\n@import url('https://palm-tree-css-library.github.io/styles.min.css');\n"]}
