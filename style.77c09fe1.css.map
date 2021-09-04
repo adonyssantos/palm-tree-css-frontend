@@ -1,0 +1,1 @@
+{"version":3,"sources":["../sass/style.scss"],"names":[],"mappings":"AACQ,2EAAA,CACA,+EAAA","file":"style.77c09fe1.css","sourceRoot":"../src/views","sourcesContent":["// Imports from Palm Tree CSS Library\n@import url('https://puzzlerdev.github.io/palm-tree-css-library/style.css');\n@import url('https://puzzlerdev.github.io/palm-tree-css-library/style.min.css');\n"]}
