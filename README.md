@@ -2,7 +2,7 @@
 
 <img src="./src/assets/imagotype.svg" alt="Palm Tree CSS's imagotype" title="Palm Tree CSS's imagotype" width="200"/>
 
-Frontend of [Palm Tree CSS](https://github.com/PuzzlerDev/palm-tree-css-frontend)
+Frontend of [Palm Tree CSS](https://github.com/PuzzlerDev/palm-tree-css-library)
 
 [![PuzzlerDev - palm-tree-css-frontend](https://img.shields.io/static/v1?label=PuzzlerDev&message=palm-tree-css-frontend&color=blue&logo=github)](https://github.com/PuzzlerDev/palm-tree-css-frontend)
 [![stars - palm-tree-css-frontend](https://img.shields.io/github/stars/PuzzlerDev/palm-tree-css-frontend?style=social)](https://github.com/PuzzlerDev/palm-tree-css-frontend)
