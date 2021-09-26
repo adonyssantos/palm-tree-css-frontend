@@ -22,6 +22,7 @@ Frontend of [Palm Tree CSS](https://github.com/PuzzlerDev/palm-tree-css-frontend
 	- [Pull Requests](#pull-requests)
 	- [Style Guide](#style-guide)
 	- [License](#license)
+- [Credits](#credits)
 
 ## Building and running on localhost
 
@@ -76,3 +77,7 @@ All pull requests SHOULD adhere to the [Conventional Commits specification](http
 ### License
 
 You must agree that your patch will be licensed under the Conventional Commit License, and when we change the license we will assume that you agreed with the change unless you object to the changes in time.
+
+## Credits
+
+This project is developed by [PuzzlerDev](https://github.com/puzzlerDev/).
